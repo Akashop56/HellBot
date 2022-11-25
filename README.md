@@ -15,7 +15,7 @@
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Akashop56/HellBot?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Hellbot?style=social)
 
 ![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=social&logo=github)
@@ -65,7 +65,7 @@
 ## Deploy Locally
 
 - Clone the repo. 
-`git clone https://github.com/The-HellBot/Plugins-T.git`
+`git clone https://github.com/Akashop56/Plugins-T.git`
 
 - Open Cloned Folder.
 `cd Plugins-T`
